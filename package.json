@@ -6,7 +6,7 @@
   },
   "type": "module",
   "description": "[![Actions Status](https://github.com/pavlovkeith/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/pavlovkeith/frontend-project-46/actions)",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node bin/gendiff.js"
