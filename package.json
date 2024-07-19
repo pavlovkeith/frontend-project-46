@@ -8,7 +8,8 @@
   "description": "[![Actions Status](https://github.com/pavlovkeith/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/pavlovkeith/frontend-project-46/actions)",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest",
     "start": "node bin/gendiff.js"
   },
   "author": "pavlovkeith",
@@ -23,7 +24,8 @@
     "eslint-plugin-jsx-a11y": "^6.9.0",
     "eslint-plugin-react": "^7.34.4",
     "eslint-plugin-react-hooks": "^4.6.2",
-    "globals": "^15.8.0"
+    "globals": "^15.8.0",
+    "jest": "^29.7.0"
   },
   "dependencies": {
     "commander": "^12.1.0",
