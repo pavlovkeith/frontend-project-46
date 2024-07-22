@@ -13,7 +13,7 @@ const parseFile = (filepath) => {
     return yaml.load(content);
   }
 
-  throw new Error(`Unsupported file format: ${ext}`);
+  throw new Error(`Unsupported file extension: ${ext}`);
 };
 
 export default parseFile;

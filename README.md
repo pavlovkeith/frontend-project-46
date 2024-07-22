@@ -8,3 +8,7 @@
 ### Сравнение плоских файлов JSON и YAML
 
 [![asciicast](https://asciinema.org/a/A5fagL9Jlw02X7LxpSORuXHqz.svg)](https://asciinema.org/a/A5fagL9Jlw02X7LxpSORuXHqz)
+
+### Рекурсивное сравнение
+
+[![asciicast](https://asciinema.org/a/ZhS0TzwLOawsLUDwRDSIR4saB.svg)](https://asciinema.org/a/ZhS0TzwLOawsLUDwRDSIR4saB)
