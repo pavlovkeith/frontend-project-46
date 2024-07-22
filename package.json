@@ -15,10 +15,15 @@
     "start": "node bin/gendiff.js"
   },
   "nyc": {
-  "reporter": ["text", "lcov"],
-  "all": true,
-  "include": ["src/**/*.js"]
-},
+    "reporter": [
+      "text",
+      "lcov"
+    ],
+    "all": true,
+    "include": [
+      "src/**/*.js"
+    ]
+  },
   "author": "pavlovkeith",
   "license": "ISC",
   "devDependencies": {
@@ -37,6 +42,7 @@
   },
   "dependencies": {
     "commander": "^12.1.0",
+    "js-yaml": "^4.1.0",
     "lodash": "^4.17.21"
   }
 }
