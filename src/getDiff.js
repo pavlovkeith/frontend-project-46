@@ -38,7 +38,10 @@ const getDiffNode = (data1, data2, key) => {
       return { status, key, value: value1 };
     case 'changed':
       return {
-        status, key, value1, value2,
+        status,
+        key,
+        value1,
+        value2,
       };
     default:
       throw new Error(`Unknown status: ${status}`);

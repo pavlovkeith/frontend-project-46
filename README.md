@@ -1,17 +1,8 @@
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/pavlovkeith/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/pavlovkeith/frontend-project-46/actions)
-
-### Testing Status Badge:
-
 [![Build Status](https://github.com/pavlovkeith/frontend-project-46/actions/workflows/testing.yml/badge.svg?branch=main)](https://github.com/pavlovkeith/frontend-project-46/actions/workflows/testing.yml)
-
-### Maintainability Badge:
-
 [![Maintainability](https://api.codeclimate.com/v1/badges/ca4af127eaba8eb52df0/maintainability)](https://codeclimate.com/github/pavlovkeith/frontend-project-46/maintainability)
-
-### Test Coverage Badge:
-
 [![Test Coverage](https://api.codeclimate.com/v1/badges/ca4af127eaba8eb52df0/test_coverage)](https://codeclimate.com/github/pavlovkeith/frontend-project-46/test_coverage)
 
 ### Сравнение плоских файлов JSON (step 4) и YAML (step 6)
