@@ -2,9 +2,9 @@
 
 [![Actions Status](https://github.com/pavlovkeith/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/pavlovkeith/frontend-project-46/actions)
 
-### Build Status Badge:
+### Testing Status Badge:
 
-[![Build Status](https://github.com/pavlovkeith/frontend-project-46/actions/workflows/diffTest.yml/badge.svg?branch=main)](https://github.com/pavlovkeith/frontend-project-46/actions/workflows/diffTest.yml)
+[![Build Status](https://github.com/pavlovkeith/frontend-project-46/actions/workflows/testing.yml/badge.svg?branch=main)](https://github.com/pavlovkeith/frontend-project-46/actions/workflows/testing.yml)
 
 ### Maintainability Badge:
 
